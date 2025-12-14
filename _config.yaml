@@ -6,10 +6,9 @@ minimal_mistakes_skin: "sunrise"
 plugins:
   - jekyll-include-cache
 
-# Navigation links
-navigation:
-  main:
-    - title: "About"
-      url: /about/
-    # - title: "Topics"
-    #   url: /tags/
+locale: "en-US"
+# Tell the theme to show the Sidebar Profile
+author:
+  name: "Mom on Linux"
+  bio: "Software Engineer & Learner"
+  # avatar: "/assets/images/profile.jpg"
