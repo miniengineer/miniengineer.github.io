@@ -1,3 +1,13 @@
-theme: jekyll-theme-hacker
+remote_theme: mmistakes/minimal-mistakes
 title: Mom on Linux
 description: Documenting my path to mastering technical skills
+
+minimal_mistakes_skin: "sunrise"
+
+# Navigation links
+navigation:
+  main:
+    - title: "About"
+      url: /about/
+    # - title: "Topics"
+    #   url: /tags/
