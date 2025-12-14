@@ -3,6 +3,8 @@ title: Mom on Linux
 description: Documenting my path to mastering technical skills
 
 minimal_mistakes_skin: "sunrise"
+plugins:
+  - jekyll-include-cache
 
 # Navigation links
 navigation:
