@@ -6,8 +6,6 @@ tags:
   - AWS
 ---
 
-# Introduction
-
 This blog exists so I can document my learnings and keep myself accountable.
 There are four big categories that I am focused on:
 
