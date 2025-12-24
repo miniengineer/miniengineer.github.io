@@ -1,6 +1,6 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Mom On Linux
-description: Documenting my path to mastering software engineering skills
+subtitle: Documenting my path to mastering software engineering skills
 
 minimal_mistakes_skin: "sunrise"
 plugins:
