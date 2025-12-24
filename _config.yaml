@@ -1,6 +1,6 @@
 remote_theme: mmistakes/minimal-mistakes
-title: MOL
-# description: Documenting my path to mastering technical skills
+title: Mom On Linux
+description: Documenting my path to mastering software engineering skills
 
 minimal_mistakes_skin: "sunrise"
 plugins:
@@ -8,7 +8,7 @@ plugins:
 
 locale: "en-US"
 # Tell the theme to show the Sidebar Profile
-author:
-  name: "Mom on Linux"
-  bio: "Documenting my path to mastering technical skills"
+# author:
+#   name: "Mom on Linux"
+#   bio: "Documenting my path to mastering technical skills"
   # avatar: "/assets/images/profile.jpg"
